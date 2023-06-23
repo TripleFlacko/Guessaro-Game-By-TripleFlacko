@@ -1,8 +1,8 @@
-# Guessaro-Game-By-TripleFlacko
+# [Guessaro-Game-By-TripleFlacko](https://replit.com/@TripleFlacko/Guessaro-Game-By-TripleFlacko)
 
 A simple Guess A Number game created by TripleFlacko 
 
-<img alt="Guessaro Game" width="525px" src="https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg">
+<a href="https://replit.com/@TripleFlacko/Guessaro-Game-By-TripleFlacko"><img alt="Guessaro Game" width="525px" src="https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg"></a>
 
 <a href="https://replit.com/@TripleFlacko/Guessaro-Game-By-TripleFlacko">Guessaro</a> is a simple **Guess A Number game**, where you need to guess a number **from 1 to 100** by typing in the number. Each time you enter the number, the computer will tell you whether it is **lower** or **higher** than the **expected** number. You will have **10 tries** to guess.
 
